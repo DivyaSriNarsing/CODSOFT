@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./Style.css">
+    <title> SHOPPING'S GRID </title>
+</head>
+<body>
+
+    <div class="wrapper">
+        <div class="container">
+            <header>
+<h1>MY CART</h1>
+                <table width="50%" align="center" cellpadding="0" cellspacing="2">
+                <tr>
+
+ <th width="20%"><img src="cart.jpg" alt="MY CART"  width="50" height="50"/></th>
+                <th colspan=4>
+                <h1 style="color:white;">MY CART - WORLD BEST SHOPPING'S GRID</h1>
+                </th>
+                </tr>
+                </table>
+            </header>
+            <nav>
+                <table width="50%" align="center" cellpadding="0" cellspacing="2">
+                <tbody align="center"  style="font-weight:bold;font-size:18px;"">
+               
+                </tbody>
+                </table>
+            </nav>
+        </div>
+        <div class="container1">
+            <div class="sidebar1"></div>
+            <div class="container2">
+                <main>
+                     <center>
+                    <h3>MY CART</h3>
+                    <h3> SHOPPING'S GRID</h3>
+                        <table width="100%" align="center" >
+                        <tbody>
+                        <tr>
+                        <th width="40%"><hr>Product Name</hr></th>
+                        <th width="20%"><hr>Price</hr></th>
+                        <th width="20%"><hr>Quantity</hr></th>
+                        <th width="20%"><hr>Amount</hr></th> </tr>
+                        </tbody>
+                        <tbody align=center>
+                        <th width="20%"><img src="rice.jpg" width="20" height="20"/></th>
+                        <tr> <td>Rice </td>
+                        <td>Rs. 230/-</td>
+                        <td>2</td>
+                        <td>Rs. 460/-</td></tr>
+                        <th width="20%"><img src="Oil.jpg" width="20" height="20"/></th>
+                        <tr><td>Oil</td>
+                        <td>Rs. 300/-</td>
+                        <td>1</td>
+                        <td>Rs. 300/-</td></tr>
+                        <th width="20%"><img src="chocolate.jpg" width="20" height="20"/></th>
+                        <tr> <td>Chocolates</td>
+                       <td>Rs.80/-</td>
+                       <td>5</td>
+                        <td>Rs.400/-</td></tr>
+                        <th width="20%"><img src="Dal.jpg" width="20" height="20"/></th>
+                        <tr> <td>Dal </td>
+                        <td>Rs. 100/-</td>
+                        <td>2</td>
+                        <td>Rs. 200/-</td></tr>
+                       <th width="20%"><img src="Honey.jpg" width="20" height="20"/></th>
+                        <tr> <td>Honey</td>
+                        <td>Rs. 200/-</td>
+                        <td>3</td>
+                        <td>Rs. 600/-</td></tr>
+                       <th width="20%"><img src="Dry fruits.jpg" width="20" height="20"/></th>
+                        <tr> <td>Dry fruits </td>
+                        <td>Rs. 300/-</td>
+                        <td>5</td>
+                        <td>Rs. 1500/-</td></tr>
+                        <th width="20%"><img src="Cookies.jpg" width="20" height="20"/></th>
+                        <tr> <td>Cookies </td>
+                        <td>Rs. 50/-</td>
+                        <td>10</td>
+                        <td>Rs. 500/-</td></tr>
+                         <td><hr><font color="#BLACK">Total Amount:</font><hr></td>
+                          <td><hr>Rs. 1260/-<hr></td>
+                        <td><hr>28<hr></td>
+                        <td><hr>Rs.3960 /-<hr></td> </tr>
+                        </tbody>
+                        </table>
+                    <P> FRESH AND FABULOUS FROM FARM TO TABLE</P>
+                    </center>
+                </main>
+            </div>
+            <div class="sidebar2"></div>
+        </div> 
+        <footer><font color="white">(C) 2024 All rights reserved by SHOPPING'S GRID</font></footer>
+    </div>
+</body>
+</html>
